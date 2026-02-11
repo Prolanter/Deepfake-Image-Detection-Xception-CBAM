@@ -1,0 +1,23 @@
+# Dataset
+dataset/data/
+*.zip
+
+# Kaggle
+kaggle.json
+
+# Models
+*.h5
+*.keras
+*.pt
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+
+# Notebooks
+.ipynb_checkpoints/
+
+# System
+.DS_Store
+Thumbs.db
